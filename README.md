@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h1 align="center">👋 Hi, I'm [ALLEN YE]</h1>
 <h3 align="center">UCL Mathematics · ML / RL Explorer</h3>
 
 <p align="center">
