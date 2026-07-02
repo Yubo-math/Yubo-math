@@ -1,35 +1,26 @@
-<h1 align="center">👋 Hi, I'm [ALLEN YE]</h1>
-<h3 align="center">UCL Mathematics · ML / RL Explorer</h3>
+# Hi, I'm YUBO YE
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAX-5B2B8A?style=flat&logo=jax&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20Gym-0081A5?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-</p>
+**UCL Mathematics | Machine Learning & AI**
 
-<p align="center">
-  🧮 Maths → 🤖 AI · Building agents that learn, one gradient at a time.
-</p>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
 ---
 
-### 🔭 What I'm working on
-- **RL from scratch** – DQN, PPO, and multi-agent systems  
-- **Probabilistic models** – Bayesian inference & Gaussian processes  
-- **Math for ML** – exploring optimization, linear algebra, and stats
+I am a third-year Mathematics student at UCL, fascinated by the mathematical foundations of artificial intelligence. My interests lie in building interpretable and efficient models, with a focus on probabilistic methods and optimization.
+
+- Currently exploring deep learning architectures and their theoretical underpinnings.
+- Experienced in implementing algorithms from scratch to bridge theory and practice.
+- Strong background in linear algebra, calculus, probability, and statistical inference.
 
 
-### 📫 Reach me
+
+### Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](your-link)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](your-link)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide=contribs,prs" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark" height="150" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](your-profile)
